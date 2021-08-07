@@ -21,7 +21,7 @@ I have developed this class which gives results in a user-friendly manner. The c
 consists of different methods to train the data with a single epoch and
 multyepoch. It is also possible to run different models in order to compare 
 the performances with different number of hidden nodes, epochs 
-and learning rate values. It is simply can be done by printing the instance of the class.
+and learning rate values. It is simply can be done by printing an instance of the class.
 If user needs to run a single model, it is necessary to enter all the arguments in the
 construction method. For evaluation of more than one model, required data members 
 (model's structure) will be asked to input in the runtime.
